@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Luci_Power/1.0.0": {
+        "runtime": {
+          "Luci_Power.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luci_Power/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
